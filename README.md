@@ -38,10 +38,15 @@ WalletWiz is a comprehensive budget tracking application for Android that helps 
   - Works offline with no internet connection required
 
 ## Screenshots
+![WhatsApp Image 2025-06-28 at 3 40 16 PM (1)](https://github.com/user-attachments/assets/c828cf19-0686-4a0e-a7b1-93beade08f44)
 
-| Login Screen | Dashboard | Categories | Add Transaction |
-|:------------:|:---------:|:----------:|:---------------:|
-| [Login] | [Dashboard] | [Categories] | [Add Transaction] |
+![WhatsApp Image 2025-06-28 at 3 40 18 PM](https://github.com/user-attachments/assets/30c964be-65c1-4911-9f2f-eee0d8fbb9b9)
+![WhatsApp Image 2025-06-28 at 3 40 18 PM (1)](https://github.com/user-attachments/assets/28322dc0-3cf6-43cf-a656-2b7d7bb69574)
+![WhatsApp Image 2025-06-28 at 3 40 17 PM](https://github.com/user-attachments/assets/fc0bec8e-f0d6-46f3-ae17-bbba25525a6f)
+![WhatsApp Image 2025-06-28 at 3 40 17 PM (1)](https://github.com/user-attachments/assets/f23fb06e-a22b-4124-ad38-ae4824b0150b)
+
+
+
 
 ## Technologies Used
 
